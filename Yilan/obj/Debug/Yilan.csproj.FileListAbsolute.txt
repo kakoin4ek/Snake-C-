@@ -1,0 +1,27 @@
+c:\users\студенты\documents\visual studio 2013\Projects\Yilan\Yilan\bin\Debug\Yilan.exe.config
+c:\users\студенты\documents\visual studio 2013\Projects\Yilan\Yilan\bin\Debug\Yilan.exe
+c:\users\студенты\documents\visual studio 2013\Projects\Yilan\Yilan\bin\Debug\Yilan.pdb
+c:\users\студенты\documents\visual studio 2013\Projects\Yilan\Yilan\obj\Debug\Yilan.csprojResolveAssemblyReference.cache
+c:\users\студенты\documents\visual studio 2013\Projects\Yilan\Yilan\obj\Debug\Yilan.Properties.Resources.resources
+c:\users\студенты\documents\visual studio 2013\Projects\Yilan\Yilan\obj\Debug\Yilan.csproj.GenerateResource.Cache
+c:\users\студенты\documents\visual studio 2013\Projects\Yilan\Yilan\obj\Debug\Yilan.exe
+c:\users\студенты\documents\visual studio 2013\Projects\Yilan\Yilan\obj\Debug\Yilan.pdb
+C:\Users\Студент\Documents\Visual Studio 2013\Projects\Yilan\Yilan\bin\Debug\Yilan.exe.config
+C:\Users\Студент\Documents\Visual Studio 2013\Projects\Yilan\Yilan\obj\Debug\Yilan.exe
+C:\Users\Студент\Documents\Visual Studio 2013\Projects\Yilan\Yilan\obj\Debug\Yilan.pdb
+C:\Users\Студент\Documents\Visual Studio 2013\Projects\Yilan\Yilan\bin\Debug\Yilan.exe
+C:\Users\Студент\Documents\Visual Studio 2013\Projects\Yilan\Yilan\bin\Debug\Yilan.pdb
+C:\Users\Студент\Documents\Visual Studio 2013\Projects\Yilan\Yilan\obj\Debug\Yilan.csprojResolveAssemblyReference.cache
+C:\Users\Студент\Documents\Visual Studio 2013\Projects\Yilan\Yilan\obj\Debug\Yilan.Form1.resources
+C:\Users\Студент\Documents\Visual Studio 2013\Projects\Yilan\Yilan\obj\Debug\Yilan.Properties.Resources.resources
+C:\Users\Студент\Documents\Visual Studio 2013\Projects\Yilan\Yilan\obj\Debug\Yilan.csproj.GenerateResource.Cache
+F:\Yilan\Yilan\bin\Debug\Yilan.exe.config
+F:\Yilan\Yilan\obj\Debug\Yilan.exe
+F:\Yilan\Yilan\obj\Debug\Yilan.pdb
+F:\Yilan\Yilan\bin\Debug\Yilan.exe
+F:\Yilan\Yilan\bin\Debug\Yilan.pdb
+F:\Yilan\Yilan\obj\Debug\Yilan.csprojResolveAssemblyReference.cache
+F:\Yilan\Yilan\obj\Debug\Yilan.Form1.resources
+F:\Yilan\Yilan\obj\Debug\Yilan.Properties.Resources.resources
+F:\Yilan\Yilan\obj\Debug\Yilan.csproj.GenerateResource.Cache
+C:\Users\Студенты\documents\visual studio 2013\Projects\Yilan\Yilan\obj\Debug\Yilan.Snake.resources
